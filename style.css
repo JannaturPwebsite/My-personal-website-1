@@ -1,0 +1,71 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+h1{
+    color: crimson;
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+.half-width{
+    width: 43%;
+    float:left;
+    padding-left:7%;
+    margin-left:3%;
+    padding:50px 25px;
+}
+.half-width img{
+    height:450px;
+    width:550px;
+}
+.link-button{
+    text-decoration: none;
+    background-color: firebrick;
+    padding: 5px 5px;
+    color: white;
+    border-radius:5px;
+    background-image:linear-gradient(45deg,red,firebrick,tomato);
+}
+.header{
+    background-image: url("header-bg.png");
+    background-repeat: no-repeat;
+}
+section{
+    padding-bottom:250px;
+    height:325px;
+}
+.padding{
+    padding:70px 30px 0px 0px;
+}
+.biography{
+    background-position: right;
+    background-image:url("biography-bg.png");
+}
+.align{
+    text-align: center;
+}
+.one-third img{
+    width: 30%;
+    float: left;
+    padding-left:40px;
+}
+.latest-work{
+    background-image:url("footer-bg.png");
+}
+#text-center{
+    text-align: center;
+    padding:50px 30px 20px 30px;
+}
+#client{
+    text-align:center;
+    padding:50px 0px 30px 0px;
+}
+.ending-part{ 
+    border-radius:10px;
+    background-color: rgb(197,38,117);
+    padding: 30px 0px;
+    margin: 0px 350px;
+    color: white;
+}
